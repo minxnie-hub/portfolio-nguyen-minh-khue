@@ -1,0 +1,8 @@
+source/
+*.zip
+_build_khue_site.py
+*.tmp
+*.log
+khue-*.png
+preview-*.png
+_tmp*/
